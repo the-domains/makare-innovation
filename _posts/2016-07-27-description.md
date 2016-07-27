@@ -4,12 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'description '
-datePublished: '2016-07-27T04:26:36.195Z'
-dateModified: '2016-07-27T04:26:15.471Z'
+description: description
+datePublished: '2016-07-27T04:47:02.745Z'
+dateModified: '2016-07-27T04:46:57.711Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-27-description.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-07-27-description.md
 url: description/index.html
 _type: Article
 
