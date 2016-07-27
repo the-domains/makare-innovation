@@ -1,0 +1,28 @@
+name: MAKARe iNNOVATION
+favicon: null
+layout_spectrum: 0.12979900324717164
+typography_spectrum: 0.3172652346547693
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.24689693748950958
+  lightness: 0.4636249402537942
+  saturation: 0.19146177056245506
+  rhythmicContrast: 0.007588348817080259
+purpose: []
