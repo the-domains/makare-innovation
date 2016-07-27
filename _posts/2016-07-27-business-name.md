@@ -1,19 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: business name
-datePublished: '2016-07-27T04:23:15.696Z'
-dateModified: '2016-07-27T04:21:09.308Z'
+datePublished: '2016-07-27T04:52:33.028Z'
+dateModified: '2016-07-27T04:51:49.582Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-27-business-name.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-27-business-name.md
 url: business-name/index.html
 _type: Article
 
