@@ -4,8 +4,15 @@
         <description><![CDATA[MAKARe iNNOVATION]]></description>
         <link>https://thegrid.ai/makare-innovation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 04:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 04:52:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/makare-innovation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[test]]></title>
+            <description><![CDATA[<p>business name</p>]]></description>
+            <link>https://thegrid.ai/makare-innovation/business-name/index.html</link>
+            <guid isPermaLink="false">5fcb60ec-c8b8-45eb-9657-b4b0d32adc13</guid>
+            <pubDate>Wed, 27 Jul 2016 04:52:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca84a698-b170-46e7-bf76-2bc7a09ff8f8.png">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/makare-innovation/c873db59-81f8-498d-a9c7-d34347d75481/index.html</link>
             <guid isPermaLink="false">c873db59-81f8-498d-a9c7-d34347d75481</guid>
             <pubDate>Wed, 27 Jul 2016 04:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>business name</p>]]></description>
-            <link>https://thegrid.ai/makare-innovation/business-name/index.html</link>
-            <guid isPermaLink="false">5fcb60ec-c8b8-45eb-9657-b4b0d32adc13</guid>
-            <pubDate>Wed, 27 Jul 2016 04:23:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
